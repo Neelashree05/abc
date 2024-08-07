@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-20T18:08:10 IST" name="Default suite" finished-at="2024-07-20T18:08:40 IST" duration-ms="29971">
+    <groups>
+    </groups>
+    <test started-at="2024-07-20T18:08:10 IST" name="Default test" finished-at="2024-07-20T18:08:40 IST" duration-ms="29971">
+      <class name="xpaths.dynamic">
+        <test-method signature="table()[pri:0, instance:xpaths.dynamic@131774fe]" started-at="2024-07-20T18:08:11 IST" name="table" finished-at="2024-07-20T18:08:40 IST" duration-ms="29922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- table -->
+      </class> <!-- xpaths.dynamic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
